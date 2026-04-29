@@ -4,16 +4,16 @@
 NAME:   DHANUSH RAJAN.T
 REF.NO: 212225230052  
 ```
-Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models.
+<h2>Ex-1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models.</h2>
 
-Experiment: Develop a comprehensive report for the following exercises:
+<h3>Experiment: Develop a comprehensive report for the following exercises:</h3>
 
   1. Explain the foundational concepts of Generative AI, Generative Model and it's types.
   2. 2024 AI tools.
   3. Explain what an LLM is and how it is built.
   4. Create a Timeline Chart for defining the Evolution of AI
      
-Algorithm:
+<h3>Algorithm:</h3>
 
 Step 1: Define Scope and Objectives
   1.1 Identify the goal of the report (e.g., educational, research, tech overview)
@@ -56,7 +56,7 @@ Step 2: Create Report Skeleton/Structure
 
 2.7 References
 
-Step 3: Research and Data Collection
+<h3>Step 3: Research and Data Collection</h3>
 
 3.1 Gather recent academic papers, blog posts, and official docs (e.g., OpenAI, Google AI) 3.2 Extract definitions, explanations, diagrams, and examples 3.3 Cite all sources properly
 
@@ -69,19 +69,19 @@ Step 6: Review and Edit 6.1 Proofread for grammar, spelling, and clarity 6.2 Ens
 Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as PDF or desired format 7.3 Prepare a brief presentation if required (optional)
 
 
-Output:
-```
-Introduction:
+<h1>Output:</h1>
+
+<h2>Introduction:</h2>
 
 
 Artificial Intelligence (AI) refers to the simulation of human intelligence in machines. A subset of AI, Machine Learning (ML), enables systems to learn from data. Generative AI goes a step further by creating new data similar to what it has learned.
 
 
 
-What is Generative AI?
+<h2>What is Generative AI?</h2>
 
 
-Generative AI is a class of AI models that can generate new content such as:
+<h3>Generative AI is a class of AI models that can generate new content such as:</h3>
 
 Text (e.g., chatbots)
 Images (e.g., AI art)
@@ -93,12 +93,12 @@ Instead of just analyzing data, Generative AI learns patterns and produces origi
 
 
 
-Generative Models and Their Types:
+<h2>Generative Models and Their Types:</h2>
 
 
 
-A Generative Model learns the probability distribution of data and generates new samples from it.
-Types of Generative Models:
+<h3>A Generative Model learns the probability distribution of data and generates new samples from it.</h3>
+<h4>Types of Generative Models:</h4>
 
 
 4.1 Generative Adversarial Networks (GANs)
@@ -119,9 +119,9 @@ Generate data step-by-step
 Used in text generation (LLMs)
 
 
-2024 AI Tools:
+<h2>2024 AI Tools:</h2>
 
-Popular AI tools widely used in 2024 include:
+<h3>Popular AI tools widely used in 2024 include:</h3>
 
 Text & LLM Tools
 ChatGPT
@@ -139,13 +139,13 @@ Synthesia
 
 
 
-What is a Large Language Model (LLM)?
+<h3>What is a Large Language Model (LLM)?</h3>
 
 
 
 A Large Language Model (LLM) is an AI model trained on vast amounts of text data to understand and generate human-like language.
 
-Key Features:
+<h2>Key Features:</h2>
 
 Predicts the next word in a sentence
 Understands context and semantics
@@ -153,7 +153,7 @@ Can perform multiple tasks (translation, summarization, Q&A)
 
 
 
-Architecture of LLMs:
+<h2>Architecture of LLMs:</h2>
 
 
 
@@ -167,7 +167,7 @@ BERT (Bidirectional Encoder Representations from Transformers) – bidirectional
 
 
 
-How LLMs are Built:
+<h2>How LLMs are Built:</h2>
 
 
 Step-by-Step Process
@@ -183,11 +183,13 @@ Evaluation
 Accuracy, bias, performance checks
 
 
-Training Process (Simplified Flow):
+<h3>Training Process (Simplified Flow):</h3>
 
 
 Input Text → Tokenization → Transformer Layers → Prediction → Loss Calculation → Optimization
-10. Use Cases and Applications
+
+<h2>Use Cases and Applications</h2>
+
 Applications of Generative AI
 Chatbots and virtual assistants
 Content writing
@@ -198,7 +200,7 @@ Education and tutoring
 
 
 
-Limitations and Ethical Considerations:
+<h2>Limitations and Ethical Considerations:</h2>
 
 
 Limitations
@@ -212,7 +214,8 @@ Job displacement
 Data privacy
 
 
-Timeline: Evolution of AI:
+<h2>Timeline:</h2>
+<h3></h3>Evolution of AI:</h3>
 
 
 AI Evolution Chart
@@ -228,7 +231,7 @@ Year	Milestone
 2024	Rapid adoption of AI tools
 
 
-Future Trends:
+<h3>Future Trends:</h3>
 
 
 Multimodal AI (text + image + video)
@@ -238,14 +241,14 @@ Human-AI collaboration
 Personalized AI assistants
 
 
-Conclusion:
+<h2>Conclusion:</h2>
 
 
 
 Generative AI and LLMs are reshaping industries by enabling machines to create and understand content in ways previously unimaginable. While the technology offers immense opportunities, it also brings challenges that require responsible development and usage.
 
 
-References:
+<h2>References:</h2>
 
 
 Research papers on Transformer models
@@ -253,9 +256,9 @@ OpenAI documentation
 Google AI research blogs
 Academic journals on Machine Learning
 
-```
 
 
-Result:
+
+<h1>Result:</h1>
 <br>
 A comprehensive report on Generative AI and Large Language Models has been successfully developed, covering foundational concepts, model types, tools, architecture, applications, and future trends, along with a structured methodology and timeline visualization.
