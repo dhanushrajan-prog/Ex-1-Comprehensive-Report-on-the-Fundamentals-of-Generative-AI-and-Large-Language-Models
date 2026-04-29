@@ -251,4 +251,5 @@ Academic journals on Machine Learning
 
 
 Result:
+<br>
 A comprehensive report on Generative AI and Large Language Models has been successfully developed, covering foundational concepts, model types, tools, architecture, applications, and future trends, along with a structured methodology and timeline visualization.
